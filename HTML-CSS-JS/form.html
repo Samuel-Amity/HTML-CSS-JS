@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+
+<body>
+    <h3 align="Center"> Form </h3>
+    <form align="Center" method="post"> <!-- methord = wrong -->
+        First Name : <input type="text" placeholder="Enter your First Name" name="f_name"> <br> <br>
+        Last Name : <input type="text" placeholder="Enter Last Name" name="l_name"> <br><br>
+        User Name : <input type="text" placeholder="Enter Your User Name" name="U_name"><br><br>
+        Password : <input type="password" placeholder="Enter Your Password" name="Pass"> <br><br>
+        Gender : <input type="radio" name="Gender" value="Male"> Male <input type="radio" name="Gender" value="Female"> Female <input type="radio"
+            name="Gender" value="Others"> Others <br><br>
+        Skills : <input type="checkbox" name="check" value="Java">Java
+                <input type="checkbox" name="check" value="Python">Python
+                <input type="checkbox" name="check" value="HTML">HTML
+                <input type="checkbox" name="check" value="SQL"> SQL <br><br>
+        City : <select name="city"> <!--multiple-->
+               <option value="">Select Your City</option>
+                <option value="Pune">Pune</option>
+                <option value="Pune">Mumbai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="MP">MP</option>
+        </select><br><br>
+        DOB : <input type="date" name="dob"><br><br>
+        Upload : <input type="file" name="upload"><br><br>
+        <input type="submit" value="Register"> <input type="reset" value="Cancel">
+    </form>
+
+</body>
+
+</html>
