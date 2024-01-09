@@ -4,7 +4,7 @@ Progress in html, ccs and js from itvedant
 
 # Progress 
 
-## 1) html 
+## 1) HTML 
 
 Day 1 - 28 Dec 2023 - Basic info and FAB icons
 
@@ -14,7 +14,7 @@ Day 3 - 3 Jan 2024 - Tables
 
 Day 4 - 5 Jan 2024 - form, Table form
 
-# CSS
+## 2) CSS
 
 Day 5 - 8 Jan 2024 - Frameset, CSS 
 
