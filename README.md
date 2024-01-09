@@ -14,6 +14,8 @@ Day 3 - 3 Jan 2024 - Tables
 
 Day 4 - 5 Jan 2024 - form, Table form
 
+# CSS
+
 Day 5 - 8 Jan 2024 - Frameset, CSS 
 
 Day 6 - 9 Jan 2024 - 
