@@ -18,4 +18,6 @@ Day 4 - 5 Jan 2024 - form, Table form
 
 Day 5 - 8 Jan 2024 - Frameset, CSS 
 
-Day 6 - 9 Jan 2024 - Practice itv website
+Day 6 - 9 Jan 2024 - Practice itv website 
+
+Day 7 - 10 Jan 2024 - table menu, youtube clone 
