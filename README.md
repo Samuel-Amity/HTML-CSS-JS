@@ -25,3 +25,7 @@ Day 7 - 10 Jan 2024 - table menu, youtube clone
 Day 8 - 11th Jan 2024 - Practice -
 
 Day 9 - 15th Jan 2024 - CSS Practice - Selectors
+
+## 3) JavaScript
+
+Day 10 - 16th Jan 2024 - Javascript Basics
