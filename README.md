@@ -36,4 +36,5 @@ Day 12 - 23 Jan 2024 - Loops and some css
 
 
 ## Notes
-Explore additional project notes in the [notes](/notes.md/) directory.
+Explore additional project notes in the <a href="/Notes.md/">notes</a> directory.
+
