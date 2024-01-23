@@ -33,3 +33,7 @@ Day 10 - 16th Jan 2024 - Javascript Basics
 Day 11 - 22nd Jan 2024 - Javascript practices itrative stat, operators
 
 Day 12 - 23 Jan 2024 - Loops and some css
+
+
+## Notes
+Explore additional project notes in the [notes](/notes.md/) directory.
