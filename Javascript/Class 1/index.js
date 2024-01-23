@@ -22,4 +22,4 @@ var x = 10
     let x = 45;
     document.write("inside block " + x + "<br>");
     }
-document.write("ouside" +x);
+document.write("ousideasssssssssssss" +x);
