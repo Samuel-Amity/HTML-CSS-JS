@@ -29,3 +29,7 @@ Day 9 - 15th Jan 2024 - CSS Practice - Selectors
 ## 3) JavaScript
 
 Day 10 - 16th Jan 2024 - Javascript Basics
+
+Day 11 - 22nd Jan 2024 - Javascript practices itrative stat, operators
+
+Day 12 - 23 Jan 2024 - Loops and some css
